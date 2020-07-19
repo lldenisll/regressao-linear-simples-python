@@ -34,6 +34,18 @@ A figura acima nos mostra uma associação linear positiva entre X e Y: Quanto m
 ### Tá bom e o que eu e o python temos a ver com isso? 
 Agora vamos aprender como utilizar o scikit-learn no Python para implementar uma regressão linear simples, dado um banco de dados. Nesse caso utilizaremos dados relacionados com consumo de combustível e emissão de CO2 em veículos. Depois vamos utlizar training and test sets (vamos explicar mais a frente), criaremos um modelo usando um training set, e finalmente seremos capazes de usar esse modelo para prever um valor desconhecido.
 
+### Bora fazendo! 
+#### Primeiro vamos importar todos os pacotes que precisamos
+
+`import matplotlib.pyplot as plt`
+
+`import pandas as pd`
+
+`import pylab as pl`
+
+`import numpy as np`
+
+`%matplotlib inline`
 
 
 
