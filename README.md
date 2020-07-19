@@ -31,6 +31,9 @@ A figura acima nos mostra uma associação linear positiva entre X e Y: Quanto m
 <img src="./teta0.png" width = "20%">
 - Agora ficou bem fácil calcular o nosso intercepto não é mesmo? 
 
+### Tá bom e o que eu e o python temos a ver com isso? 
+Agora vamos aprender como utilizar o scikit-learn no Python para implementar uma regressão linear simples, dado um banco de dados. Nesse caso utilizaremos dados relacionados com consumo de combustível e emissão de CO2 em veículos. Depois vamos utlizar training and test sets (vamos explicar mais a frente), criaremos um modelo usando um training set, e finalmente seremos capazes de usar esse modelo para prever um valor desconhecido.
+
 
 
 
