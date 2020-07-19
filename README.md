@@ -20,12 +20,17 @@ A figura acima nos mostra uma associação linear positiva entre X e Y: Quanto m
 
 - Y => Nosso amigo Y de chapéu :womans_hat:, é a nossa variável dependente, para encontrarmos o valor dela, dependemos do valor de outra variável que existe independente de Y. No nosso caso, faz calor ou frio na praia (variável X), independente da taxa de ocupacão dos hotéis, mas é inegável que existe uma correlação entre estar calor e os hotéis na praia estarem lotados.
 
-- θ₁ => O têta 1 é o coeficiente angular (Slope ou gradiant), e é representado pela fórmula abaixo:
+- X₁ => Nosso amigo X₁ é a variável independente, ela é fundamental para chegarmos no valor de Y:womans_hat:, como visto acima, no nosso exemplo X₁ seria a temperatura na praia em um determinado dia.
 
+- θ₁ => O têta 1 é o coeficiente angular (Slope ou gradiant), e é representado pela fórmula abaixo:
+<img src="./teta1.png" width = "20%">
+- Onde o X com aquela barrinha maneira em cima é a média dos valores da variável independente, e obviamente o Y com a barrinha maneira é a média dos valores da variável dependente Y
+- E nosso amigo X com o izinho pequenino signifca que temos que repetir a conta para cada valor do eixo X, o mesmo vale para o Yi.
 
 -  θ₀ =>  O têta zero é o Intercepto (intercept), é representado pela fórmula abaixo:   
+<img src="./teta0.png" width = "20%">
+- Agora ficou bem fácil calcular o nosso intercepto não é mesmo? 
 
 
-- X₁ => 
 
 
