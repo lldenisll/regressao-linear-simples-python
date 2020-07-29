@@ -153,3 +153,5 @@ print("Erro absoluto: %.2f" % np.mean(np.absolute(test_y_hat - test_y)))
 print("Média quadrada do erro (MSE): %.2f" % np.mean((test_y_hat - test_y) ** 2))
 print("Coeficiente de determinação(R2-score): %.2f" % r2_score(test_y_hat , test_y) )
 ```
+<img src="./results.png" width = "50%">
+
